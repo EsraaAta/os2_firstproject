@@ -1,7 +1,9 @@
-public class esraa{
-	public static void main(string[]args){
-		System.out.println("esraa");	
-}
+package esraa;
 
+public class esraa {
 
+    public static void main(String[] args) {
+        System.out.println("esraa");
+    }
+    
 }
